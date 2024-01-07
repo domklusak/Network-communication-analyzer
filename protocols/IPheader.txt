@@ -1,0 +1,4 @@
+1 ICMP
+2 IGMP
+17 UDP
+6 TCP
